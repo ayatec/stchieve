@@ -5,8 +5,8 @@ import React from 'react';
 class Application extends React.Component {
   render() {
     return (
-      <div>
-        <h1>hello world!</h1>
+      <div id="app">
+        <h1>Hello stchieve!</h1>
       </div>
     );
   }
